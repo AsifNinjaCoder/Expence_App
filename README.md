@@ -1,6 +1,8 @@
-# expence_app
+# Expences_app
 
 A new Flutter project.
+
+About- Using this app You can track your weekly Expenses Record Easily and also you can check which day and what amount of money you expend.
 
 ## Getting Started
 
